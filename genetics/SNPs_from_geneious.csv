@@ -1,0 +1,37 @@
+Type;Amino Acid Change;CDS Position;Change;Codon Change;Coverage;Polymorphism Type;Protein Effect;Variant Frequency
+Polymorphism;;705;C -> T;TTC -> TTT;4;SNP (transition);None;100.0%
+Polymorphism;;711;A -> T;GGA -> GGT;1;SNP (transversion);None;100.0%
+Polymorphism;;675;T -> C;GAT -> GAC;24;SNP (transition);None;4.2%
+Polymorphism;;618;G -> A;ATG -> ATA;343;SNP (transition);None;3.2%
+Polymorphism;;213;C -> T;ATC -> ATT;350;SNP (transition);None;2.6%
+Polymorphism;;273;C -> T;GCC -> GCT;350;SNP (transition);None;2.6%
+Polymorphism;;363;G -> A;GGG -> GGA;350;SNP (transition);None;2.6%
+Polymorphism;;252;G -> A;ATG -> ATA;350;SNP (transition);None;2.3%
+Polymorphism;;426;C -> T;GAC -> GAT;350;SNP (transition);None;2.3%
+Polymorphism;;513;T -> A;TCT -> TCA;350;SNP (transversion);None;2.3%
+Polymorphism;;540;T -> A;CCT -> CCA;350;SNP (transversion);None;2.3%
+Polymorphism;;603;T -> C;GCT -> GCC;348;SNP (transition);None;2.3%
+Polymorphism;;606;T -> A;GGT -> GGA;348;SNP (transversion);None;2.3%
+Polymorphism;;102;A -> T;CTA -> CTT;338;SNP (transversion);None;1.8%
+Polymorphism;;126;A -> C;CCA -> CCC;348;SNP (transversion);None;1.7%
+Polymorphism;;357;A -> G;GGA -> GGG;350;SNP (transition);None;1.7%
+Polymorphism;;657;T -> C;GAT -> GAC;173;SNP (transition);None;1.7%
+Polymorphism;;270;G -> A;ATG -> ATA;350;SNP (transition);None;1.1%
+Polymorphism;;567;T -> G;ACT -> ACG;350;SNP (transversion);None;0.9%
+Polymorphism;;261;T -> C;GCT -> GCC;350;SNP (transition);None;0.6%
+Polymorphism;;285;A -> G;ATA -> ATG;350;SNP (transition);None;0.6%
+Polymorphism;;579;A -> G;TTA -> TTG;350;SNP (transition);None;0.6%
+Polymorphism;;81;T -> G;GTT -> GTG;192;SNP (transversion);None;0.5%
+Polymorphism;;177;T -> C;CAT -> CAC;350;SNP (transition);None;0.3%
+Polymorphism;;228;T -> C;TTT -> TTC;350;SNP (transition);None;0.3%
+Polymorphism;;325;C -> T;CTA -> TTA;350;SNP (transition);None;0.3%
+Polymorphism;;343;T -> C;TTA -> CTA;350;SNP (transition);None;0.3%
+Polymorphism;;405;T -> C;GCT -> GCC;350;SNP (transition);None;0.3%
+Polymorphism;A -> T;409;G -> A;GCT -> ACT;350;SNP (transition);Substitution;0.3%
+Polymorphism;V -> M;559;G -> A;GTA -> ATA;350;SNP (transition);Substitution;0.3%
+Polymorphism;;570;A -> C;GCA -> GCC;350;SNP (transversion);None;0.3%
+Polymorphism;V -> I;571;G -> A;GTT -> ATT;350;SNP (transition);Substitution;0.3%
+Polymorphism;;609;T -> A;GCT -> GCA;348;SNP (transversion);None;0.3%
+Polymorphism;;619;T -> C;TTA -> CTA;342;SNP (transition);None;0.3%
+Polymorphism;;627;A -> T;ACA -> ACT;327;SNP (transversion);None;0.3%
+Polymorphism;;642;T -> C;AAT -> AAC;308;SNP (transition);None;0.3%

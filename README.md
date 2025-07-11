@@ -1,7 +1,7 @@
 # Phylogenetic and Morphometric Study of _Culex pipiens_ s.s. in Germany
 
 ## Project overview
-This project investigates the relationships between environmental factors (land use, temperature, latitude), genetic variability and wing characteristics (shape, size) of _Culex pipiens_ s.s. mosquito populations in Germany.
+This project investigates the associations between environmental factors (land use, temperature, latitude), genetic variability, and wing characteristics (shape and size) of _Culex pipiens_ s.s. mosquito populations in Germany.
 
 Mosquitoes of the _Culex pipiens_ complex are relevant vectors of the West Nile virus, which has been detected locally in Germany since 2018. Environmental changes, including land-use changes and climate change, may affect genetic and morphometric traits of mosquito populations, which could alter their vector competence.
 

@@ -12,13 +12,8 @@ In this study, up to 20 female mosquitoes from 23 sites in Germany were analyzed
 - `/landuse`: Scripts and data for the analysis of environmental factors.
 - `/morphometrics`: Analyses and data on wing shape and size using morphometric methods.
 - `/species_lda`: Script for linear discriminant analysis for species identification.
+- `/germanymap`: Script for visualizing coordinates on a map of Germany.
 - `/output`: Subfolder for plots, tables and results from the analyses.
-
-
-
-
-
-
 
 ## Dependecies
 The following R packages are required for the analyses:
@@ -31,13 +26,18 @@ The following R packages are required for the analyses:
 - `geomorph`
 - `ggfortify`
 - `ggplot2`
+- `ggspatial`
 - `knitr`
 - `MASS`
 - `MORPHO`
 - `neutralitytestr`
 - `pegas`
 - `pheatmap`
-- `PopoGenome`
+- `PopGenome`
+- `rnaturalearth`
+- `rnaturalearthdata`
+- `rnaturalearthhires`
+- `sf`
 - `stringr`
 - `tidyverse`
 - `tidyr`
@@ -54,6 +54,7 @@ install.packages(c(
   "geomorph",
   "ggfortify",
   "ggplot2",
+  "ggspatial",
   "knitr",
   "MASS",
   "Morpho",
@@ -61,6 +62,10 @@ install.packages(c(
   "pegas",
   "pheatmap",
   "PopGenome",
+  "rnaturalearth",
+  "rnaturalearthdata",
+  "rnaturalearthhires",
+  "sf"
   "stringr",
   "tidyverse",
   "tidyr",
